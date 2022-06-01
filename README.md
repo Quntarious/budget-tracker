@@ -1,6 +1,3 @@
-
-# book-search-engine
-
 # Budget-Tracker
 ## Description
 
